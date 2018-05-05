@@ -1,0 +1,6 @@
+Hi! These are rules for ConnectFour. 
+
+Object: Connect four of your checkers in a row while preventing your opponent from doing the same. But, look out -- your opponent can sneak up on you and win the game!
+
+— Milton Bradley, Connect Four "Pretty Sneaky, Sis" television commercial, 1977[3]
+The first player begins by dropping one of his/her discs into the center column of the game board. The two players then alternate turns dropping one of their discs at a time into an unfilled column until one player achieves four in a row -- either horizontally, vertically or diagonally; the player that does so wins the game. However, if the game board fills up before either player achieves four in a row, then the game is a draw. 
